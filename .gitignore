@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment/secrets
+.env
+.env.*
+
+# ChromaDB
+chroma_data/
+chroma/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Uploads
+uploads/
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
